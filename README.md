@@ -1,2 +1,2 @@
 # fullpage
-See demo: https://rsharpe-blog.ru/projects/fullpage/
+See demo: https://rsharpe23.github.io/portfolio/fullpage/
